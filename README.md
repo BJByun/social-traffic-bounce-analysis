@@ -23,5 +23,5 @@ Google Merchandise Store 사용자 행동 로그를 활용하여 유입 채널�
 - `01_social_traffic_bounce_analysis.ipynb` : 전체 분석 코드
 
 ## 데이터
-본 프로젝트는 Google Merchandise Store의 Google Analytics Sample Dataset을 활용했습니다.
+본 프로젝트는 BigQuery Public Dataset의 Google Analytics Sample Dataset(Google Merchandise Store)을 활용했습니다.
 분석에 사용한 원본 parquet 파일은 용량 문제로 Repository에 포함하지 않았습니다.
